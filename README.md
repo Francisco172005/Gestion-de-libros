@@ -64,6 +64,7 @@ Gestion-de-libros/
 ## 📸 Capturas de pantalla
 
 ![image ALt](https://github.com/Francisco172005/Gestion-de-libros/blob/4c7e1e3c627ff03a98bb105750f9f682ee79634c/Captura%20de%20pantalla%202025-06-04%20124518.png)
+![image Alt](https://github.com/Francisco172005/Gestion-de-libros/blob/0e66335c0a18943508e2aef95c0e7714cba280ef/Captura%20de%20pantalla%202025-06-04%20124536.png)
 
 ## 📄 Licencia
 
